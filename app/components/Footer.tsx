@@ -18,8 +18,8 @@ function Footer() {
     };
 
     return (
-        <footer className="mx-auto mt-20 mb-5 py-8 px-6 text-left font-roboto-mono border-t border-gray-900">
-            
+        <footer className="mx-auto mt-20 mb-5 py-8 px-6 text-left  font-roboto-mono border-t border-gray-900">
+        
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                 {/* Internal Links */}
                 <div className="space-y-4 ml-[10%]">
@@ -69,6 +69,7 @@ function Footer() {
                     </div>
                 </div>
             </div>
+
 
             <div className="mt-8 pt-8 border-t border-gray-900 text-center text-sm text-gray-400">
                 © {new Date().getFullYear()} Matter Net. All rights reserved.

@@ -12,6 +12,9 @@ module.exports = {
         'roboto-mono': ['var(--font-roboto-mono)'],
         'rubik': ['var(--font-rubik)'],
       },
+      zIndex: {
+        '200': '200',
+      },
     },
   },
   plugins: [],
