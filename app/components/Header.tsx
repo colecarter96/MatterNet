@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 function Header(){
     return(
-        <header className='fixed left-1/2 -translate-x-1/2 top-4 w-[95%] bg-black/90 text-white py-4 px-6 rounded-lg flex justify-between items-center drop-shadow-xl z-100'>
+        <header className='fixed left-1/2 -translate-x-1/2 top-4 w-[95%] bg-black/90 text-white py-4 px-6 rounded-lg flex justify-between items-center drop-shadow-xl z-1000'>
             <div className='text-2xl font-bold font-jetbrains-mono'>
                 matter net
             </div>
