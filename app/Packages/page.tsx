@@ -238,7 +238,7 @@ export default function Packages() {
       </div>
 
       {/* Call to Action */}
-      <div className="py-20">
+      {/* <div className="py-20">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h2 className="font-roboto-mono text-4xl md:text-6xl font-bold mb-8">
             READY TO GET STARTED?
@@ -254,7 +254,7 @@ export default function Packages() {
             START YOUR PROJECT
           </Link>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 } 
