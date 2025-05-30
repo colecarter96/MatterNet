@@ -13,7 +13,9 @@ module.exports = {
         'rubik': ['var(--font-rubik)'],
       },
       zIndex: {
+        '100': '100',
         '200': '200',
+        '300': '300',
       },
     },
   },
